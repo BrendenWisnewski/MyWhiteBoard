@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Cleanup
 namespace Arrays
 {
     public class ArrayClass
